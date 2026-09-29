@@ -2,8 +2,7 @@
 
 Je construis des systèmes qui tournent sans moi, et des garde-fous qui les empêchent de mentir
 quand ils tombent. Cinq ans de production (réseaux, VPN, Active Directory, gestion d'incidents),
-puis mon agence — [Arkodis](https://arkodis.fr) — où je code tout moi-même, avec Claude Code tous
-les jours.
+puis mon agence, **Arkodis**, où je code tout moi-même, avec Claude Code tous les jours.
 
 > *I build systems that run without me, and the guardrails that stop them lying when they break.
 > Five years in production support, then my own agency. Most of my repositories are private
