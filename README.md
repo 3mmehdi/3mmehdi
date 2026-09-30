@@ -23,6 +23,11 @@ l'a produit.
 description, et la note honnête sur pourquoi les valeurs absolues de ce banc d'essai ne sont pas
 exploitables.
 
+**[apprendre-du-code](https://github.com/3mmehdi/apprendre-du-code)** — la skill qui ferme la boucle :
+après un chantier, elle m'interroge sans me laisser rouvrir le diff, classe les réponses, puis range la
+leçon et ne fabrique des cartes de révision que sur ce que j'ai raté. Son premier passage réel m'a montré
+un angle mort que je n'avais pas vu.
+
 ### Ce qui ne l'est pas
 
 Les sites et applications que je livre à mes clients, et l'agent de prospection qui tourne sur mon
