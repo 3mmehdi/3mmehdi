@@ -12,6 +12,11 @@ puis mon agence, **Arkodis**, où je code tout moi-même, avec Claude Code tous 
 
 ### Ce qui est public ici
 
+**[lecture-dce](https://github.com/3mmehdi/lecture-dce)** : un skill Claude qui lit un dossier de consultation
+de marché public de travaux et relève les 12 points qu'un chargé d'études ne doit pas rater, chacun avec sa
+source. Il est livré avec son banc d'évaluation : 95 % pour une consigne simple, 100 % pour le skill, zéro
+valeur inventée, 0,17 $ et 15 secondes par dossier. Une commande suffit pour le relancer.
+
 **[claude-code-guardrails](https://github.com/3mmehdi/claude-code-guardrails)** — sept garde-fous
 qui empêchent un agent de coder de dériver : blocage de la création en série, vérification des
 dates calculables, refus de laisser partir un secret, maintien d'invariants qu'une main perd.
@@ -52,4 +57,4 @@ l'alerte censée la signaler.
 
 ---
 
-📍 Beauvais, France · télétravail · [LinkedIn](https://www.linkedin.com/in/mehdimezouar)
+📍 Beauvais, France · télétravail · [LinkedIn](https://www.linkedin.com/in/mehdimezouar) · [arkodis.fr](https://arkodis.fr)
