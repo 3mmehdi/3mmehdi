@@ -14,8 +14,10 @@ puis mon agence, **Arkodis**, où je code tout moi-même, avec Claude Code tous 
 
 **[lecture-dce](https://github.com/3mmehdi/lecture-dce)** : un skill Claude qui lit un dossier de consultation
 de marché public de travaux et relève les 12 points qu'un chargé d'études ne doit pas rater, chacun avec sa
-source. Il est livré avec son banc d'évaluation : 95 % pour une consigne simple, 100 % pour le skill, zéro
-valeur inventée, 0,17 $ et 15 secondes par dossier. Une commande suffit pour le relancer.
+source. Quand une clause est à risque ou éliminatoire, il explique pourquoi, ce qu'il faut faire avant la remise,
+et quelle question poser à l'acheteur. Il est livré avec son banc d'évaluation : 95 % pour une consigne simple,
+100 % pour le skill, zéro valeur inventée, 12 risques expliqués sur 12, 0,17 $ et 30 secondes par dossier.
+Une interface locale montre chaque étape, du dossier découpé à la note finale.
 
 **[agent-support-it](https://github.com/3mmehdi/agent-support-it)** : un agent de support informatique interne
 en TypeScript (Google ADK, Gemini). Il trie un ticket, diagnostique avec des outils, propose des actions choisies
